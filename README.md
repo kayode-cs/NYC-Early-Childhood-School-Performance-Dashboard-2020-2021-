@@ -1,5 +1,7 @@
-[Chocolate Sales.xlsx](https://github.com/user-attachments/files/19523962/Chocolate.Sales.xlsx)# 📊 NYC-Early-Childhood-School-Performance-Dashboard-2020-2021-
-A Tableau dashboard analyzing Early Childhood School Performance 🚀 **Data Visualization | Tableau | Performance Analytics**  
+## 📊 NYC-Early-Childhood-School-Performance-Dashboard-2020-2021-
+
+A Tableau dashboard analyzing Early Childhood School Performance 
+🚀 **Data Visualization | Tableau | Performance Analytics**  
 
 ## **🔍 Project Overview**
 This Project contains data visualizations and analyses of **NYC Early Childhood School Performance for the 2020-2021 academic year**. The dashboards include **insights on school enrollment, attendance trends, gender distribution, ethnicity demographics, and special education participation**.
