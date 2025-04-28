@@ -37,5 +37,5 @@ This Project contains data visualizations and analyses of **NYC Early Childhood 
 3. Explore the interactive visualizations.  
 
 ## **📩 Connect With Me**
-📧 Email: yourname@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourname)  
+📧 **Email:** ikadelakun@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/kayode-adelakun-4b68a2343/
